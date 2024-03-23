@@ -27,7 +27,7 @@ export default {
     />
     <div class="input-group-append">
       <button class="btn btn-outline-secondary" type="button" @click="submit">
-        <i class="fas fa-seach">Tìm kiếm</i>
+        <i class="fas fa-seach"></i>Tìm kiếm
       </button>
     </div>
   </div>
