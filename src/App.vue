@@ -9,12 +9,16 @@ export default {
 
 <template>
   <div id="app">
-    <!-- <p>Hello</p> -->
     <AppHeader />
-    <div class="container-mt-3">
+    <div class="container mt-3">
       <router-view />
     </div>
   </div>
 </template>
 
-<style></style>
+<style>
+/* .page {
+  max-width: 400px;
+  margin: auto;
+} */
+</style>
